@@ -1,0 +1,37 @@
+{
+  "title": "6 Brothers \u2014 Double Smash",
+  "creator": "Abhay Tiwari",
+  "source": "https://www.facebook.com/reel/1772022523809388",
+  "width": 480,
+  "height": 300,
+  "cols": 8,
+  "frames": 48,
+  "chapters": [
+    {
+      "progress": 0,
+      "label": "The smash"
+    },
+    {
+      "progress": 0.17,
+      "label": "Every layer"
+    },
+    {
+      "progress": 0.35,
+      "label": "In the box"
+    },
+    {
+      "progress": 0.57,
+      "label": "The sear"
+    },
+    {
+      "progress": 0.76,
+      "label": "The cut"
+    },
+    {
+      "progress": 0.9,
+      "label": "The story"
+    }
+  ],
+  "mode": "frames",
+  "limitation": "The source records a screen. Cropping, perspective, motion blur and clipped page edges remain. This reproduces recorded visuals rather than recovering the original application."
+}
